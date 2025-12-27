@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/nonsess?base=header,activity,community&languages=1&languages.limit=6&languages.recent=true&config.timezone=Europe/Moscow" />
+  <img src="https://metrics.lecoq.io/nonsess?base=header,activity&languages=1&languages.limit=6&languages.recent=true&config.timezone=Europe/Moscow" />
 </p>
 
 ---
