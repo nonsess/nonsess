@@ -37,7 +37,7 @@
 
 ---
 
-### [**Вкусвайп**](https://github.com/nonsess/food-social-network) — Соцсеть рецептов с ML-рекомендациями  
+### [**Вкусвайп**](https://github.com/nonsess/recipe-social-network) — Соцсеть рецептов с ML-рекомендациями  
 > Микросервисная архитектура с Elasticsearch, Qdrant и геймификацией просмотров.
 
 ![Вкусвайп лента](https://github.com/user-attachments/assets/24c5959e-8597-45f9-b618-aa082a8e5f9e)  
