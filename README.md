@@ -11,8 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nonsess&show_icons=true&theme=radical&count_private=true&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nonsess&layout=compact&theme=radical&hide_border=true" height="150" />
+  <img src="https://metrics.lecoq.io/nonsess?base=header,activity,community&languages=1&languages.limit=6&languages.recent=true&config.timezone=Europe/Moscow" />
 </p>
 
 ---
@@ -22,18 +21,23 @@
 #### [**FLOWLIST**](https://github.com/nonsess/flowlist) — Минималистичный таск-менеджер  
 > Fullstack за 5 дней: Next.js + FastAPI + PostgreSQL + Docker. Оптимистичные обновления, безопасность «из коробки», UX с клавиатурными шорткатами.
 
-![FLOWLIST mobile](https://github.com/user-attachments/assets/bd6fd03d-5e39-4b64-b94a-35cf22cd9b5d)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bd6fd03d-5e39-4b64-b94a-35cf22cd9b5d" width="500" alt="FLOWLIST mobile" />
+</p>
 
 #### [**Вкусвайп**](https://github.com/nonsess/recipe-social-network) — Соцсеть рецептов с ML  
 > Бесконечная лента, swipe-геймификация, presigned URLs → MinIO, векторный поиск (Qdrant) + полнотекст (Elasticsearch).
 
-![Вкусвайп лента](https://github.com/user-attachments/assets/24c5959e-8597-45f9-b618-aa082a8e5f9e)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/24c5959e-8597-45f9-b618-aa082a8e5f9e" width="500" alt="Вкусвайп лента" />
+</p>
 
 #### [**Про-фитнес**](https://github.com/nonsess/proFitness) — Геймифицированный трекер  
 > Алгоритм генерации тренировок на JS, экономика монет → разблокировка сюжета, Ant Design + mobile-first.
 
-![Про-фитнес тренировки](https://github.com/user-attachments/assets/58f76a92-5322-414a-aa69-44876e99d7a5)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/58f76a92-5322-414a-aa69-44876e99d7a5" width="500" alt="Про-фитнес тренировки" />
+</p>
 ---
 
 ### 🛠️ Стек
