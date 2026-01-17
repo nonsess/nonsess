@@ -30,7 +30,7 @@
 >
 > **Роль:** Frontend (Next.js, Tailwind), CI/CD, Docker, devops.
 >
-> **Публичная версия:** [product-ready.ru](https://product-ready.ru)
+> **Публичная версия:** [temp.product-ready.ru](https://temp.product-ready.ru)
 
 #### [**FLOWLIST**](https://github.com/nonsess/flowlist) - Минималистичный таск-менеджер
 
