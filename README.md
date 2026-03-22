@@ -1,4 +1,4 @@
-<h1 align="center">👋 Привет! Я Даниил Петров, Fullstack-разработчик</h1>
+<h1 align="center">👋 Привет! Я Даниил, Fullstack Dev</h1>
 
 <p align="center">
   <em>Создаю продукты, где <strong>техническая надёжность</strong> встречается с <strong>интуитивным UX</strong>.</em>
@@ -15,7 +15,7 @@
 ### Стек
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,python,nextjs,react,ts,postgresql,redis,minio,docker,git" />
+  <img src="https://skillicons.dev/icons?i=fastapi,python,nextjs,react,ts,postgresql,redis,bash,docker,git" />
 </p>
 
 ---
