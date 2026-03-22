@@ -15,7 +15,7 @@
 ### Стек
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,fastapi,python,postgresql,redis,docker,git" />
+  <img src="https://skillicons.dev/icons?i=fastapi,python,nextjs,react,ts,postgresql,redis,minio,docker,git" />
 </p>
 
 ---
@@ -29,8 +29,6 @@
 > **Решение:** Сервис, где заметка живёт от 1 минуты до 24 часов, имеет QR и код для быстрого доступа и работает без регистрации.
 >
 > **Роль:** Frontend (Next.js, Tailwind), CI/CD, Docker, devops.
->
-> **Публичная версия:** [temp.product-ready.ru](https://temp.product-ready.ru)
 
 #### [**FLOWLIST**](https://github.com/nonsess/flowlist) - Минималистичный таск-менеджер
 
@@ -56,6 +54,6 @@ Telegram: [@ddanjil](https://t.me/ddanjil)
 
 Сайт: [ddanjil.ru](https://ddanjil.ru)
 
-Ищу позицию **Frontend / Fullstack Developer**.
+Ищу позицию **Backend Developer**.
 
 > 💬 *«Код — это не только логика, но и эмпатия к пользователю»*
